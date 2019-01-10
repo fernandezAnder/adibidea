@@ -5,7 +5,7 @@ public class Autobusa {
 		int zbk=2;
 		int zbk2=5;
 		int emaitza=0;
-		
+		asfsdfg
 		emaitza=zbk+zbk2;
 		System.out.println(emaitza);
 		
