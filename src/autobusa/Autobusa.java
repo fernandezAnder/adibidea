@@ -8,6 +8,8 @@ public class Autobusa {
 		
 		emaitza=zbk+zbk2;
 		System.out.println(emaitza);
+		
+		
 	}
 }
 
