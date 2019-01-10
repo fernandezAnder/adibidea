@@ -8,7 +8,7 @@ public class Autobusa {
 		asfsdfg
 		emaitza=zbk+zbk2;
 		System.out.println(emaitza);
-		
+		yfjuyhdtthr
 		
 	}
 }
